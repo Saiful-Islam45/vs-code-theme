@@ -1,0 +1,21 @@
+{
+  "name": "amiable-color-theme",
+  "displayName": "Amiable color theme",
+  "description": "Eye soothing color theme for developer to work for a long period.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soothing Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Soothing Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
